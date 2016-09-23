@@ -1,0 +1,7 @@
+# +1,000,000 -0: Cloning a Game Using Game Hacking and Terabytes of Data
+##Abstract
+In this talk, I'll provide a window into the warchest my team used to generate over a million lines of code. In particular, we created and used game hacks to process data from tens of millions of hours of in-game data and use the results to generate copies of a game's map, monsters, quests, items, spells, non-playable characters, and more. We also used a wiki crawler to obtain a large amount of data, generate additional code, and guide our cheat scripts in what to look for, clarify, and ignore.
+
+After explaining our end-game vision, I'll dive deep into the architecture of the game client, server and protocol. Once that's out of the way, I'll talk about the different types of hacks we used, how they work, and what data they were able to obtain. Once that's out of the way, I'll round out the story by explaining exactly what type of data we gathered and what parts of our toolkit we used to gather it.
+
+This project isn't exactly applicable a typical day-in-the-life of a security professional, but it is a cool and informative look into the fun side of security. It shows how the same deeply technical techniques that are used to pentest, man-in-the-middle, and create malware can be used for more whimsical projects. My hope is that this talk not only provides some unbelievable anecdotes, but also arms the audience with an improved ability to creatively apply their hacking skills to similar tasks.
